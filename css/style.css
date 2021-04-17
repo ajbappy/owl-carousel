@@ -1,0 +1,12 @@
+.slaider1 .item{
+   min-height: 100px;
+   background-color: blue;
+   background-color: teal;
+   border: 5px solid red;
+     margin: 5px;
+     padding: 50px;
+}
+.slaider1 .item h4{
+text-align: center;
+
+}
